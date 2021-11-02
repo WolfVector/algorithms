@@ -1,3 +1,5 @@
+#https://stackoverflow.com/questions/55187799/all-possible-combinations-of-operations-on-list-of-numbers-to-find-a-specific-nu
+
 from itertools import permutations, combinations, combinations_with_replacement
 
 number = ["1", "2", "3", "4"]
